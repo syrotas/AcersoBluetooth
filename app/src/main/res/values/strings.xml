@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Acerso</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ble_not_supported">Bluetooth BLE not supported</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported</string>
+</resources>
